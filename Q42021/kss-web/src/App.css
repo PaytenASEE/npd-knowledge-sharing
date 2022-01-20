@@ -1,0 +1,10 @@
+.App {
+
+}
+
+.products-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 900px;
+  margin: auto;
+}
